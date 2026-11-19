@@ -1,0 +1,13 @@
+order_id,sale_date,item_title,buyer,sale_price,shipping_charged,supplier,supplier_cost,shipping_cost,supplier_order_id,tracking_number,status,shipped_date,delivered_date,notes
+12-11001-00001,2026-11-03,Wireless Earbuds Pro,techfan88,24.99,0.00,AliExpress,11.50,2.10,AE-88412031,LY123456789CN,completed,2026-11-04,2026-11-12,
+12-11002-00002,2026-11-05,LED Ring Light 10 inch,studio_sara,19.99,0.00,AliExpress,8.20,1.80,AE-88412077,LY123456790CN,completed,2026-11-06,2026-11-15,
+12-11003-00003,2026-11-07,Stainless Steel Water Bottle 1L,fitlife_mike,16.49,0.00,Amazon,9.99,0.00,AMZ-701-55213,1Z999AA10123456784,delivered,2026-11-08,2026-11-13,
+12-11004-00004,2026-11-09,Magnetic Phone Car Mount,drive_daily,12.99,0.00,Walmart,6.40,1.50,WM-99310482,9400111202555012345678,completed,2026-11-10,2026-11-14,
+12-11005-00005,2026-11-10,Bluetooth Shower Speaker,bathbeats,21.99,0.00,CJdropshipping,10.75,3.20,CJ-5520193,CJUS8841205567,shipped,2026-11-11,,
+12-11006-00006,2026-11-02,Solar Garden Lights 8-Pack,garden_guru,29.99,0.00,AliExpress,13.90,2.60,AE-88411802,,shipped,2026-11-03,,
+12-11007-00007,2026-11-16,Mini Projector 1080p,movie_night_uk,59.99,0.00,Amazon,38.00,0.00,AMZ-701-55890,,new,,,
+12-11008-00008,2026-11-17,Ergonomic Laptop Stand,desk_setup_pro,27.50,0.00,Walmart,14.20,2.00,WM-99310771,,ordered,,,
+12-11009-00009,2026-11-12,Silicone Kitchen Utensil Set,homechef_anna,18.99,0.00,AliExpress,7.60,1.90,AE-88412155,LY123456801CN,returned,2026-11-13,2026-11-18,Buyer changed mind - refunded
+12-11010-00010,2026-11-13,Smart LED Strip Lights 5m,glowroom,15.99,0.00,AliExpress,14.50,2.00,AE-88412190,LY123456812CN,shipped,2026-11-14,,
+12-11011-00011,2026-11-18,Pet Grooming Gloves,petlover_j,11.99,0.00,CJdropshipping,5.10,1.40,CJ-5520231,,new,,,
+12-11012-00012,2026-11-15,Portable Neck Fan,coolbreeze,17.99,0.00,Amazon,9.30,0.00,AMZ-701-55702,1Z999AA10123456799,completed,2026-11-16,2026-11-18,

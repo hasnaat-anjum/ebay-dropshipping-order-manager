@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/orders.json
+data/orders.json.bak
+orders.csv
+orders.json
+report.html
